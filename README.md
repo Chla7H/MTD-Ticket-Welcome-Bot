@@ -1,4 +1,4 @@
-# 🎫 Mega Team Development® - Advanced Ticket, Welcome & Logs Discord Bot
+#  Mega Team Development® - Advanced Ticket, Welcome & Logs Discord Bot
 
 A multi-functional Discord bot built using **Discord.js v14**. It handles custom advanced ticket creation panels, a unique welcome system with dynamic member banners, and administrative join logs. 
 
@@ -6,7 +6,7 @@ The bot operates continuously in **Idle Mode** with a custom status pointing to 
 
 ---
 
-## ✨ Features
+##  Features
 
 * **Custom Presence:** Keeps the bot in `Idle` status displaying `Discord.gg/MEGA`.
 * **Advanced Ticket System:** Create custom tickets routed into sections (*Support*, *Buy Unban*, *Report Cheater*, *CEO Contact*). 
@@ -17,7 +17,7 @@ The bot operates continuously in **Idle Mode** with a custom status pointing to 
 
 ---
 
-## 🛠️ Prerequisites
+##  Prerequisites
 
 Before hosting, ensure you have the following installed and configured:
 * [Node.js](https://nodejs.org/) v16.11.0 or higher.
@@ -25,7 +25,7 @@ Before hosting, ensure you have the following installed and configured:
 
 ---
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 1. **Download Project Files:** Ensure `index.js`, `package.json`, and `config.json` are placed in the same directory.
 2. **Install Dependencies:** Open your terminal in the project directory and execute:
