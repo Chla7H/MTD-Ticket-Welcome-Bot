@@ -31,3 +31,4 @@ Before hosting, ensure you have the following installed and configured:
 2. **Install Dependencies:** Open your terminal in the project directory and execute:
    ```bash
    npm install
+   node index.js
