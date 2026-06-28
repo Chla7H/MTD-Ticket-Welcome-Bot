@@ -1,0 +1,9 @@
+{
+  "token": "YOUR_BOT_TOKEN_HERE",
+  "team_role_id": null,
+  "logo_url": "https://i.imgur.com/your_default_logo.png",
+  "banner_url": "https://i.imgur.com/your_default_banner.png",
+  "ticket_counter": 0,
+  "welcome_channel_id": null,
+  "logs_channel_id": null
+}
